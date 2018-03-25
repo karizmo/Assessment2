@@ -1,0 +1,20 @@
+.sameW{
+    width: 50px;
+}
+#Num{
+    background-color: black;
+    color: white;
+}
+#Random{
+    background-color: pink;
+}
+#Plus{
+    background-color: grey;
+}
+
+/*Display css*/
+#display{
+    height: 100px;
+    width: auto;
+    position: relative;
+}
